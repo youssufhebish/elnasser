@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15.5" height="17.056" viewBox="0 0 15.5 17.056">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="15.5" height="17.056" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cart" clip-path="url(#clip-path)">
+    <path id="Path_1" data-name="Path 1" d="M5.333,2,3,5.111V16a1.556,1.556,0,0,0,1.556,1.556H15.444A1.556,1.556,0,0,0,17,16V5.111L14.667,2Z" transform="translate(-2.25 -1.25)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_4" data-name="Line 4" x2="14" transform="translate(0.75 3.55)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2" data-name="Path 2" d="M13.6,10A2.8,2.8,0,1,1,8,10" transform="translate(-3.05 -2.872)" fill="none" stroke="#121212" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

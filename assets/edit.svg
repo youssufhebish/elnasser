@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="16" viewBox="0 0 15 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M.5,16a.5.5,0,0,1,0-1h14a.5.5,0,0,1,0,1ZM.015,12.879l1-4a.508.508,0,0,1,.131-.232l8.5-8.5a.5.5,0,0,1,.707,0l3,3a.5.5,0,0,1,0,.707L11.362,5.845l-.008.008-.008.008L4.854,12.353a.5.5,0,0,1-.232.131l-4,1A.509.509,0,0,1,.5,13.5.5.5,0,0,1,.015,12.879Z" transform="translate(0.5 0.5)" fill="#141414"/>
+    </clipPath>
+  </defs>
+  <g id="Color_White" data-name="Color/White" transform="translate(-0.499 -0.5)">
+    <path id="Mask-2" data-name="Mask" d="M.5,16a.5.5,0,0,1,0-1h14a.5.5,0,0,1,0,1ZM.015,12.879l1-4a.508.508,0,0,1,.131-.232l8.5-8.5a.5.5,0,0,1,.707,0l3,3a.5.5,0,0,1,0,.707L11.362,5.845l-.008.008-.008.008L4.854,12.353a.5.5,0,0,1-.232.131l-4,1A.509.509,0,0,1,.5,13.5.5.5,0,0,1,.015,12.879Z" transform="translate(0.5 0.5)" fill="#141414"/>
+    <g id="Color_White-2" data-name="Color/White" clip-path="url(#clip-path)">
+      <g id="Color_White-3" data-name="Color/White" transform="translate(-41 -33)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="84" height="80" fill="#606d7a"/>
+      </g>
+    </g>
+  </g>
+</svg>

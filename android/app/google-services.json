@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888531748913",
+    "project_id": "alnasser-2bd4e",
+    "storage_bucket": "alnasser-2bd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888531748913:android:6287c386611747904fad10",
+        "android_client_info": {
+          "package_name": "com.namaait.alnasser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888531748913-goa3efndddn3hdrlqtvdh0568bmh7fv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBug6LtyUM1EvzGXWCOAsnsTdmAG6dEMX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888531748913-goa3efndddn3hdrlqtvdh0568bmh7fv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
